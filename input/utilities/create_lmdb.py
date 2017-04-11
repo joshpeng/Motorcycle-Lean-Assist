@@ -2,8 +2,8 @@
 Creates and stores training and validation sets with labels.
 
 Requirements:
-1. Training images must be stored in ./train/ as jpg
-2. Validation images must be stored in ./test/ as jpg
+1. Training images must be stored in ../train/ as jpg
+2. Validation images must be stored in ../test/ as jpg
 3. Filenames must include the labeled angle of the image right before file extension
     Ex: coldwater_001_-11.jpg
     This would be a -11 degree label
