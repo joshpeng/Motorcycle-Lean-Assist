@@ -5,3 +5,7 @@ env/
 
 # vscode
 .vscode/*
+
+# Caffe Model
+*.caffemodel
+*.solverstate
