@@ -1,6 +1,6 @@
 # Motorcycle Lean Assist (MLA)
 
-This is a computer vision project using a convolutional neural network to detect the lean angle of a motorcycle.
+This is a computer vision project using a convolutional neural network to detect the lean angle of a motorcycle through image classification.
 
 [![ScreenShot](./presentation/imgs/mla.png)](https://www.youtube.com/watch?v=DP6ssxYdzqM)
 
@@ -49,7 +49,7 @@ MLA was achieved through the use of Caffe and OpenCV. I approached this as an im
 
 ![](./presentation/imgs/CNN_dark.png)
 
-Since there were no readily available datasets, I synthetically created one from Google Street View images by writing automation scripts for Adobe Photoshop. I automated the rotation, crop, and overlay augmentation of image to create over 100,000 images.
+Since there were no readily available datasets, I synthetically created one from Google Street View images by writing automation scripts for Adobe Photoshop. I automated the rotation, crop, and overlay augmentation to generate over 100,000 images for training.
 
 ![](./presentation/imgs/ImageProcessing_dark.gif)
 
