@@ -4,6 +4,9 @@ This is a computer vision project using a convolutional neural network to detect
 
 [![ScreenShot](./presentation/imgs/mla.png)](https://www.youtube.com/watch?v=DP6ssxYdzqM)
 
+[Demo Reel](https://www.youtube.com/watch?v=DP6ssxYdzqM)
+
+[Blog Post](https://joshpeng.github.io/post/mla/)
 
 ## Overview
 MLA is designed for novice to intermediate riders, riders who are still learning to lean or who aren't fully confident in their leaning abilities yet.
