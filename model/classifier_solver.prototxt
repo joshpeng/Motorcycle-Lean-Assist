@@ -1,0 +1,14 @@
+net: "classifier_train.prototxt"
+test_iter: 100
+test_interval: 100
+base_lr: 0.0001
+lr_policy: "step"
+gamma: 0.5
+stepsize: 10000
+display: 100
+max_iter: 400000
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 1000
+snapshot_prefix: "snapshots/classifier/aws_class_mcaug_model"
+solver_mode: GPU
